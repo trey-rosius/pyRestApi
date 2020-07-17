@@ -1,6 +1,11 @@
-Flask
-Flask-RESTful
-Flask-JWT
-Flask-SQLAlchemy
-uwsgi
-psycopg2
+Flask = "*"
+Flask-JWT-Extended = "*"
+Flask-RESTful = "*"
+Flask-SQLAlchemy = "*"
+flask-marshmallow = "*"
+marshmallow-sqlalchemy = "*"
+marshmallow = "==3.0.0b12"
+jinja2 = "*"
+werkzeug = "==0.16.0"
+python-dotenv = "*"
+stripe = "*"
