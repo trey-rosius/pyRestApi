@@ -1,0 +1,12 @@
+Flask
+Flask-RESTful
+Flask-JWT-Extended
+Flask-SQLAlchemy
+uwsgi
+stripe
+flask-marshmallow
+marshmallow-sqlalchemy
+marshmallow
+jinja2
+werkzeug
+python-dotenv
